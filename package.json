@@ -1,0 +1,25 @@
+{
+  "name": "Chemicals_Store",
+  "version": "1.0.0",
+  "description": "This is an E-Commerce Webpage with an emphasis on Backend Development and Data Management",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TGalvez1/Chemicals_Store.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TGalvez1/Chemicals_Store/issues"
+  },
+  "homepage": "https://github.com/TGalvez1/Chemicals_Store#readme"
+}
